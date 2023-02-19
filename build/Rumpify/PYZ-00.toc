@@ -1,4 +1,4 @@
-('/Users/isaacng/Developer/Menu Bar Spotify/Rumpify/build/Rumpify/PYZ-00.pyz',
+('/Users/isaacng/Developer/Menu Bar Spotify/Rumpify/build/rumpify/PYZ-00.pyz',
  [('AppKit',
    '/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/AppKit/__init__.py',
    'PYMODULE'),

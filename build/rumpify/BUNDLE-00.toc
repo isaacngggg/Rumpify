@@ -1,0 +1,3 @@
+([('rumpify',
+   '/Users/isaacng/Developer/Menu Bar Spotify/Rumpify/dist/rumpify',
+   'EXECUTABLE')],)
